@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @correaj03
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Source control
-- 💞️ I’m looking to collaborate on different Visual studio and PYthon projects
+- 💞️ I’m looking to collaborate on different Visual studio and Python projects
 - 📫 How to reach me jcdives@gmail.com
 
 <!---
